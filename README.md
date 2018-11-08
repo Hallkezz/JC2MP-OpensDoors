@@ -8,4 +8,4 @@ I created a new script that allows you to open the doors of military bases. The 
 
 **Pleasant use! :)**
 
-[Forum in jc-mp.com](https://www.jc-mp.com/forums/index.php/topic,6089.0.html)
+[Post on forum jc-mp.com](https://www.jc-mp.com/forums/index.php/topic,6089.0.html)
